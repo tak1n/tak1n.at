@@ -1,0 +1,18 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'tak1n'
+theme = "hugo-theme-m10c"
+avatar = "static/avatar.jpg"
+
+[[params.social]]
+  icon = "brand-github"
+  name = "My Github"
+  url = "https://github.com/tak1n"
+[[params.social]]
+  icon = "brand-bsky"
+  name = "My Bluesky"
+  url = "https://bsky.app/profile/bennyklotz.at"
+[[params.social]]
+  icon = "brand-linkedin"
+  name = "My Linkedin"
+  url = "https://www.linkedin.com/in/benjamin-klotz-91374153"
