@@ -1,9 +1,10 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://www.tak1n.at/'
 languageCode = 'en-us'
 title = 'tak1n'
 theme = "hugo-theme-m10c"
 avatar = "static/avatar.jpg"
 params.tagline = " "
+params.author = 'tak1n'
 
 [[params.social]]
   icon = "brand-github"
@@ -12,7 +13,7 @@ params.tagline = " "
 [[params.social]]
   icon = "brand-bsky"
   name = "My Bluesky"
-  url = "https://bsky.app/profile/bennyklotz.at"
+  url = "https://bsky.app/profile/tak1n.at"
 [[params.social]]
   icon = "brand-linkedin"
   name = "My Linkedin"
