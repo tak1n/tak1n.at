@@ -5,6 +5,7 @@ theme = "hugo-theme-m10c"
 avatar = "static/avatar.jpg"
 params.tagline = " "
 params.author = 'tak1n'
+params.Description = " "
 
 [[params.social]]
   icon = "brand-github"
